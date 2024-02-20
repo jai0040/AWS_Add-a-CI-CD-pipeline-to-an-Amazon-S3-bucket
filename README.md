@@ -43,19 +43,19 @@ Step 32: Now we are going to create CI/CD pipeline.<br><br>
 Step 33: For that Open your AWS console dashbord.<br><br>
 Step 34: Search CodePipeline; Open it.<br><br>
 Step 35: Enter name of pipeline.<br><br>
-Step 36: In service role we have two options.<br><br>
-	1. New service role.
-	2. Existinf service role.
+Step 36: In service role we have two options.<br>
+	1. New service role.<br>
+	2. Existinf service role.<br>
 Step 37: Now click on "Next"<br><br>
 Step 38: Now select your pipeline Source.<br><br>
 We see many options.<br><br>
-> Aws CodeCommit.
-> Amazon ECR.
-> Amazon S3.
-> BitBucket.
-> GitHub (Version 1).
-> GitHub (Version 2).
-> GitHub Enterprise Server.
+•  Aws CodeCommit.
+•  Amazon ECR.
+•  Amazon S3.
+•  BitBucket.
+•  GitHub (Version 1).
+•  GitHub (Version 2).
+•  GitHub Enterprise Server.
 Step 39: We select "GitHub (Version 2)"<br><br>
 Step 40: Now click on "Connect to Github."<br><br>
 Step 41: Now we are Create a connection page.<br><br>
