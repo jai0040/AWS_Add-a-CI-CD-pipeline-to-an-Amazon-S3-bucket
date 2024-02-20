@@ -43,7 +43,7 @@ Step 32: Now we are going to create a CI/CD pipeline.<br><br>
 Step 33: For that Open your AWS console dashboard.<br><br>
 Step 34: Search CodePipeline; open it.<br><br>
 Step 35: Enter the name of the pipeline.<br><br>
-Step 36: In the service role, we have two options.<br><br>
+Step 36: In the service role, we have two options.<br>
 1. New service role.<br>
 2. Existing service roles.<br>
 
