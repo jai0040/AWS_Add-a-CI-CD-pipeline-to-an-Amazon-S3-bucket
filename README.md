@@ -4,7 +4,6 @@
 
 Following the steps you should follow
 
-
 Step 1: Go to the AWS console.<br><br>
 Step 2: Search for S3 and open it.<br><br>
 Step 3: Now we are creating S3 buckets.<br><br>
@@ -78,17 +77,17 @@ Step 55: Now we can see Deploy stage page.<br><br>
 Step 56: Deploy the provider. <br><br>
 Step 57: We can see many fields like AWS AppConfig, AWS ClounFormation, AWS ClounFormation Stack Set, AWS CodeDeploy, AWS Elastic Beanstalk, AWS OpsWorks Stack, AWS Service Catalog, Alexa Skills Kit, Amazon ECS, Amazon ECS (Blue/Green), and Amazon S3.<br><br>
 Step 58: Here we select Amazon S3.<br><br>
-Step 59: In Deployment path, we write "static/".<br><br>
+Step 59: In Deployment path, we write `static/`.<br><br>
 Step 60: Click on the checkbox for Extract File before deploying.<br><br>
 Step 61: Click on Next.<br><br>
 Step 62: Now that we are on the review page, scroll down and click on Create Pipeline.<br><br>
 Step 63: Now our pipeline is almost done, and it's ready. <br><br>
 Step 64: Go to the S3 bucket and click on your bucket.<br><br>
-Step 65: Then click on "static/"<br><br>
-Step 66: Follow this step: "static/" -> "/" -> "Code.Upload.txt.<br><br>
+Step 65: Then click on `static/ `<br><br>
+Step 66: Follow this step: `static/ -> / -> Code.Upload.txt `<br><br>
 Step 67: In that, we see all the details.<br><br>
 Step 68: Now open hour github.<br><br>
 Step 69: So that you can verify whether your code is deployed or not.<br><br>
-Step 70: Go to S3 Bucket, open our bucket, and go to "static/" -> "/" -> "Code.Upload.txt. <br><br>
+Step 70: Go to S3 Bucket, open our bucket, and go to `static/ -> / -> Code.Upload.txt` <br><br>
 Step 71: Then we see the URL of our bucket.<br><br>
 Step 72: Now our pipeline is done and our code is deployed.<br><br>
