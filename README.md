@@ -11,12 +11,12 @@ Step 3: Now we are create S3 Buckets.<br><br>
 Step 4: SO for that click on "Create bucket".<br><br>
 Step 5: Enter name of bucket. <br><br>
 Step 6: Select region.<br><br>
-Step 7: In Object Ownership we have two options.<br><br>
-	1. ACLs disabled.
-	2. ACLs enabled.
+Step 7: In Object Ownership we have two options.<br>
+	1. ACLs disabled.<br>
+	2. ACLs enabled.<br><br>
 Step 8: We select "ACLs enabled".<br><br>
 Step 9: Then scroll down and we see Block Publick Access settings.<br><br>
-Step 10: So in this we uncheck the checkbox beacuse we want access of public ip.<br><br>
+Step 10: So in this we uncheck the checkbox beacuse we want access of public ip.<br>
 Note : Click on Acknowledge note.<br><br>
 Step 11: For noe in Bucket versioning we select "Disable."<br><br>
 Step 12: I Default encryption we select "Disable."<br><br>
