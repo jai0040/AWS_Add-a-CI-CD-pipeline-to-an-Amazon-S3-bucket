@@ -14,6 +14,7 @@ Step 6: Select a region.<br><br>
 Step 7: In Object Ownership, we have two options.<br>
 1. ACLs disabled.<br>
 2. ACLs enabled.<br><br>
+
 Step 8: We select "ACLs enabled."<br><br>
 Step 9: Then scroll down, and we see Block Public Access settings.<br><br>
 Step 10: So in this, we uncheck the checkbox because we want access to a public IP.<br>
@@ -47,7 +48,7 @@ Step 36: In the service role, we have two options.<br><br>
 1. New service role.<br>
 2. Existing service roles.<br>
 Step 37: Now click on "Next."<br><br>
-Step 38: Now select your pipeline Source.<br><br>
+Step 38: Now select your pipeline Source.<br>
 We see many options.<br>
 • Aws CodeCommit.<br>
 • Amazon ECR.<br>
@@ -55,7 +56,7 @@ We see many options.<br>
 • BitBucket.<br>
 • GitHub (Version 1).<br>
 • GitHub (Version 2).<br>
-• GitHub Enterprise Server.<br>
+• GitHub Enterprise Server.<br><br>
 Step 39: We select "GitHub (Version 2)"<br><br>
 Step 40: Now click on "Connect to Github."<br><br>
 Step 41: Now we are creating a connection page.<br><br>
