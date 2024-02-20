@@ -1,11 +1,11 @@
 # AWS_Add-a-CI-CD-pipeline-to-an-Amazon-S3-bucket
 
 
-Add a CI/CD pipeline to an Amazon S3 bucket
+<H2>Add a CI/CD pipeline to an Amazon S3 bucket</H2>
 
 Following the steps you should follow
 
-Step 1: Go to the aws console.
+Step 1: Go to the aws console.<br>
 Step 2: Search S3 and open it.
 Step 3: Now we are create S3 Buckets.
 Step 4: SO for that click on "Create bucket".
