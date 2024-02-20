@@ -70,7 +70,7 @@ Step 48: Click on Connect.<br><br>
 Step 49: Now in the Source stage.<br><br>
 Step 50: In the repository name, we see automatically that our repo has come.<br><br>
 Step 51: Select the branch name.<br><br>
-Step 52: Click on "next."<br><br>
+Step 52: Click on "Next."<br><br>
 Step 53: Now we can see the Build Stage page.<br><br>
 Step 54: For now, we skip.<br><br>
 Step 55: Now we can see Deploy stage page.<br><br>
