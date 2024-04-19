@@ -18,7 +18,7 @@ Step 8: We select "ACLs enabled."<br><br>
 Step 9: Then scroll down, and we see Block Public Access settings.<br><br>
 Step 10: So in this, we uncheck the checkbox because we want access to a public IP.<br>
 **Note:** Click on Acknowledge Note.<br><br>
-Step 11: For noe in bucket versioning, we select "Disable."<br><br>
+Step 11: For note in bucket versioning, we select "Disable."<br><br>
 Step 12: In default encryption, we select "Disable."<br><br>
 Step 13: Then click on "create bucket."<br><br>
 Step 14: Now your bucket is ready.<br><br>
